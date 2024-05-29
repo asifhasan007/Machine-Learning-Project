@@ -5,10 +5,10 @@
 **CSE422 Lab Section:** 10  
 **Semester:** Spring 2024
 
-| ID        | Name         |
+|  Name         |
 |-----------|--------------|
-|   | MD ASIF HASAN |
-|   | MD FAHIM      |
+|   MD ASIF HASAN |
+|   MD FAHIM      |
 
 ## Table of Contents
 1. [Introduction](#introduction)
