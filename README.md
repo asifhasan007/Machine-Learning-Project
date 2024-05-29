@@ -1,15 +1,5 @@
 # Chess Game Prediction
 
-## Group Information
-**Group No:** 09  
-**CSE422 Lab Section:** 10  
-**Semester:** Spring 2024
-
-|  Name         |
-|-----------|--------------|
-|   MD ASIF HASAN |
-|   MD FAHIM      |
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
